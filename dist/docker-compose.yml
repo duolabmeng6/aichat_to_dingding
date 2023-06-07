@@ -1,0 +1,12 @@
+version: '3'
+services:
+  aichat:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - PORT=6699
+    ports:
+      - "6699:6699"
+    volumes:
+      - ./回答数据:/app/回答数据
