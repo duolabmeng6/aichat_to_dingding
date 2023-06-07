@@ -1,6 +1,6 @@
 # aichat_to_dingding
 
-目前接入了chatgpt 和 claude 支持 钉钉群聊@ 和 私聊
+在钉钉中接入 chatgpt 和 claude 支持 群聊@机器人 和 私聊
 
 # 使用方式
 
